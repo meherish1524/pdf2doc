@@ -20,5 +20,6 @@ six
 termcolor	
 wheel	
 tk
-
+Tk
+Tcl
 
