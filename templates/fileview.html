@@ -1,0 +1,14 @@
+{% extends 'base.html' %}
+{% block body %}
+    <div class="container">
+        <h2>{{file_name}}</h2>
+        <a href="/edit/{{file_name}}">Convert to Docx</a>
+        <br>
+        <p>
+            Number of pages: {{pages}}
+        </p>
+        <object data="../static/uploads/{{file_name}}" type="application/pdf" style="min-height:100vh;width:100%"></object>
+    </div>
+
+{% endblock body %}
+    
