@@ -7,3 +7,4 @@ PyPDF2==1.26.0
 Werkzeug==1.0.1
 gunicorn
 pdf2docx
+tkinter
