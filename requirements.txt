@@ -19,3 +19,4 @@ setuptools
 six	
 termcolor	
 wheel	
+tk
