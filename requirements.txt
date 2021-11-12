@@ -19,6 +19,6 @@ setuptools
 six	
 termcolor	
 wheel	
-python3-tk
+tk
 
 
