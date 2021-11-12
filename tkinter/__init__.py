@@ -34,7 +34,7 @@ import enum
 import sys
 import types
 
-import tk as _tkinter # If this fails your Python may not be configured for Tk
+import _tkinter # If this fails your Python may not be configured for Tk
 TclError = _tkinter.TclError
 from tkinter.constants import *
 import re
