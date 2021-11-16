@@ -6,10 +6,13 @@ website to convert PDF to DOC using flask
 
 
 ### Installation
-
+```
 sudo apt-get install -r requirements.txt
+```
 or
+```
 pip install -r requirements
+```
 Download or Clone the repo, Navigate to the directory containing the files and run
 ```
 python setup.py install
